@@ -4,9 +4,8 @@
     text-align: 25px;
 }
 .exemplo {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
-        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:rgb(32, 221, 180);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: blue;
+    text-align: center;
 }
 #seila {
     font-family: serif;
@@ -14,3 +13,12 @@
     text-align: center;
     color: rgb(5, 57, 155);
 }
+* {
+    color: rgb(37, 37, 46);
+} 
+h1{
+    border-bottom: dotted 3px black;
+}
+ 
+    
+
